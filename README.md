@@ -5,8 +5,7 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif" width="30"/> こんにちは (I don't know Japanese)
-*Computer Engineer*
-<br /> 
+_**Computer Engineer**_
 
 <!--Start Intro-->               
 <p align="left">I am a computer engineering student that likes to make apps.
