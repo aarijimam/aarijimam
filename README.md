@@ -12,9 +12,9 @@ _**Computer Engineer**_
 
 ## About Me </p>
 
-- ✨ Just a regular dude that loves to code.
-- 🥲 I can't sleep until I solve that dumb bug (Send help!)
-- 🎸 I play guitar cause music is an escape.
+- <img src="https://emojis.slackmojis.com/emojis/images/1701759126/79856/peptypeq.gif" width="20"/> Just a regular dude that loves to code.
+- <img src="https://emojis.slackmojis.com/emojis/images/1643514968/9949/blob_help.png" width="20"/> I can't sleep until I solve that dumb bug (Send help!)
+- <img src="https://emojis.slackmojis.com/emojis/images/1643514448/4312/guitarparrot.gif" width="20"/> I play guitar cause music is an escape.
 <!--End Intro-->
 ---
 <br />
@@ -30,7 +30,7 @@ _**Computer Engineer**_
 
 <!--Contact Section--> 
 
-<h2 align="center">🤝 Connect with me 🤝 </h2>
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1712916265/92029/pedro.gif" width="30"/> Connect with me <img src="https://emojis.slackmojis.com/emojis/images/1712916265/92029/pedro.gif" width="30"/> </h2>
 <div align="center">
  <a href="https://www.linkedin.com/in/nawabaarij/" target="_blank">
 <img src=https://skillicons.dev/icons?i=linkedin alt=Aarij linkedin style="margin-bottom: 5px; margin-right: 5px;" />
