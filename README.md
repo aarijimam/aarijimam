@@ -8,7 +8,7 @@
 _**Computer Engineer**_
 
 <!--Start Intro-->               
-<p align="left">I am a computer engineering student that likes to make apps.
+<p align="left">I am a computer science student that loves to code.
 
 ## About Me </p>
 
