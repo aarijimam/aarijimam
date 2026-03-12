@@ -22,7 +22,7 @@ _**Computer Engineer**_
 <!--Languages and Tools Section-->       
 <h2 align="center">Languages and Tools</h2> 
 <p align="center">
-  <img width="500px" src="https://skillicons.dev/icons?i=swift,figma,python,js,cpp,cs,dotnet,java,flutter,unity&perline=10" />
+  <img width="500px" src="https://skillicons.dev/icons?i=swift,figma,python,js,ts,cpp,cs,dotnet,java,flutter,unity&perline=10" />
 </p>
 <br />
 
