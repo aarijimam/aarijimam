@@ -12,7 +12,7 @@ _**Computer Engineer**_
 
 ## About Me </p>
 
-- <img src="https://emojis.slackmojis.com/emojis/images/1701759126/79856/peptypeq.gif" width="20"/> Just a regular dude that loves to code.
+- <img src="https://emojis.slackmojis.com/emojis/images/1701759126/79856/peptypeq.gif" width="20"/> Just a regular dude that loves to build.
 - <img src="https://emojis.slackmojis.com/emojis/images/1643514968/9949/blob_help.png" width="20"/> I can't sleep until I solve that dumb bug (Send help!)
 - <img src="https://emojis.slackmojis.com/emojis/images/1643514448/4312/guitarparrot.gif" width="20"/> I play guitar cause music is an escape.
 <!--End Intro-->
